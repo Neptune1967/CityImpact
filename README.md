@@ -1,5 +1,6 @@
 # CityImpact
 
+If you want to run this program on your computer, you will need to change the file path in the code going to a file called database.txt
 Version 1.00 12/27/21 - 12/30/21
 Program has basic structure, workable program and save/loading
 
